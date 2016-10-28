@@ -1,0 +1,39 @@
+{
+  "name": "passport-wiz",
+  "version": "1.0.0",
+  "description": "Wiz authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "wiz",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "lee715",
+    "email": "344958185@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lee715/passport-wiz.git"
+  },
+  "bugs": {
+    "url": "http://github.com/lee715/passport-wiz/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/lee715/passport-wiz#readme"
+}
